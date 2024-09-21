@@ -106,6 +106,9 @@ http://tv.cloudcdn.me/live.ts?channelId=91169&uid=13603&deviceMac=00:1A:79:64:B4
 
 
 ###Sports 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3rJ43tEhj25SEoqi2uSyWLy2iJ29z-pUT7kE8pTSug3oSQN_UMasvqi8&s=10" group-title="Sports",  T-SPORTS 
+https://edge01.iphs.digijadoo.net/live/t, sports/1172067414,36341, ts?expires=17271 18857&md5-15XLR830/ERx1pUVOF) QASuser=9118388536224e850026925631d0fe
 #EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:598/1*ZSeEiv9ApKtamj7qqQ6-qA.jpeg" group-title="Sports", PTV
 https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?|drmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjD8nF6UuA9m2hEn1rW5BWh4-1SgfhD22GSW0mkbk-fYruHKx5ZbDsIY&s=10" group-title="Sports", Star Sports 2
